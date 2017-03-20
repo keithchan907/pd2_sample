@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 	while (1)
 	{
 
-		cout << "1 1" << rand() % 20 + 1 << " " << rand() % 15 + 1 << endl;
+		cout << "1 1 1 1"<<endl;
 		cout << 0 << endl;
 		;
 		return 0;
