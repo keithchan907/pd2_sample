@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 
 		cout << "1 1 1 1"<<endl;
 		cout << 0 << endl;
-		;
+		cin >> zero;
 		return 0;
 	}
 }
