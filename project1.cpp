@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <cmath>
 #include <time.h>  
 using namespace std;
 
@@ -10,9 +11,8 @@ int main(int argc, char *argv[])
 	cin >> zero;
 	while (1)
 	{
-	srand(time_t(NULL));
-		int a = rand() % 20;
-		int b = rand() % 15;
+		int a = rand() % 20+1;
+		int b = rand() % 15+1;
 		cout << "1 1 "<<a<<" "<<b << endl;
 		cout << "1 2 " << a << " " << b << endl;
 		cout << "1 3 " << a << " " << b << endl;
