@@ -16,6 +16,5 @@ int main(int argc, char *argv[])
 		cout << "7 1 1 1" << endl;
 		cout << "8 1 1 1" << endl;
 	cout << 0 << endl;
-	cin >> zero;
 	return 0;
 }
