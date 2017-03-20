@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 	while (1)
 	{
 		int a = rand() % 20+1;
-		int b = rand() % 15+1;
+		int b = rand() % 12+8;
 		cout << "1 1 "<<a<<" "<<b << endl;
 		cout << "1 2 " << a << " " << b << endl;
 		cout << "1 3 " << a << " " << b << endl;
