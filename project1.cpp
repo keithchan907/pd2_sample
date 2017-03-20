@@ -9,8 +9,10 @@ int main(int argc, char *argv[])
 	cin >> zero;
 	while (1)
 	{
-
+while(1)
+{
 		cout << "1 1 1 1"<<endl;
+{
 		cout << 0 << endl;
 cin>>zero;
 	}
