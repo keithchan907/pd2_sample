@@ -1,0 +1,19 @@
+Script started on 2017年03月29日 (週三) 08時25分56秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami;pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.email=keithchan907@gmail.com
+credential.helper=store
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/pd2-ncku/2017-cs2-project-1-keithchan907.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/keithchan907/pd2_sample. git
+fatal: destination path 'pd2_sample' already exists and is not an empty directory.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年03月29日 (週三) 08時26分39秒
